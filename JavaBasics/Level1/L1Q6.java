@@ -1,3 +1,4 @@
+package Level1;
 // The University is charging the student a fee of INR 125000 for the course. The University is willing to offer a discount of 10%. Write a program to find the discounted amount and discounted price the student will pay for the course.
 // Hint => 
 // Create a variable named fee and assign 125000 to it.
@@ -8,8 +9,8 @@
 
 public class L1Q6 {
     public static void main(String[] args) {
-        double fee = 125000;              // Original course fee
-        double discountPercent = 10;      // Discount percentage
+        double fee = 125000;              
+        double discountPercent = 10;      
 
         double discount = (fee * discountPercent) / 100;  // Discount amount
         double finalFee = fee - discount;                 // Fee after discount
