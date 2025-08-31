@@ -1,4 +1,4 @@
-package Strings;
+package Strings.Level1;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class L1_comparestrings {
         System.out.print("Enter second string: "); 
         String s2 = sc.next(); 
  
-        boolean manual = compareStrings(s1, s2); 
+        boolean manual =compareStrings(s1, s2); 
         boolean builtin = s1.equals(s2); 
  
         System.out.println("Manual comparison: " + manual); 
