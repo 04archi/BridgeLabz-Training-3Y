@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class L1Q15 {
+public class PurchasePrice {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class L1Q11 {
+public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

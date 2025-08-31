@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class L2Q2 {
+public class TriangleArea {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

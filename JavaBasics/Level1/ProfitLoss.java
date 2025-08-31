@@ -9,7 +9,7 @@ package Level1;
 // The Cost Price is INR ___ and Selling Price is INR ___
 // The Profit is INR ___ and the Profit Percentage is ___
 
-public class L1Q4 {
+public class ProfitLoss {
     public static void main(String[] args) {
         int costPrice = 129;
         int sellingPrice = 191;

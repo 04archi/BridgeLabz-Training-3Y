@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class L1Q8 {
+public class ConvertDistance {
     public static void main(String[] args) {
         double km;
         Scanner input = new Scanner(System.in);

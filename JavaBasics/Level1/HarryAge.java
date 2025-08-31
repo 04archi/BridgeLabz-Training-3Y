@@ -3,7 +3,7 @@
 // I/P => NONE
 // O/P => Harry's age in 2024 is ___ 
 
-public class L1Q1 {
+public class HarryAge {
     public static void main(String[] args) {
         int birthYear = 2000;   // Harry's birth year
         int currentYear = 2024; // Current year

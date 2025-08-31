@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class L2Q8 {
+public class DoubleOpt {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

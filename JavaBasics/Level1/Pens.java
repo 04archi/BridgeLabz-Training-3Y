@@ -6,7 +6,7 @@ package Level1;
 // I/P => NONE
 // O/P => The Pen Per Student is ___ and the remaining pen not distributed is ___
 
-public class L1Q5 {
+public class Pens {
     public static void main(String[] args) {
         int totalPens = 14;
         int students = 3;

@@ -7,7 +7,7 @@ package Level1;
 // Compute and print the fee you have to pay by subtracting the discount from the fee.
 // O/P => The discount amount is INR ___ and final discounted fee is INR ___
 
-public class L1Q6 {
+public class UniversityFee  {
     public static void main(String[] args) {
         double fee = 125000;              
         double discountPercent = 10;      

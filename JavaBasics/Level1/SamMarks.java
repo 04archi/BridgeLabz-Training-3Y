@@ -4,7 +4,7 @@ package Level1;
 // O/P => Sam’s average mark in PCM is ___ 
 
 
-class L1Q2 {
+class SamMarks {
     public static void main(String[] args) {
         int maths = 94;
         int physics = 95;

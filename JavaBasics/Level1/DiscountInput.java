@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class L1Q9 {
+public class DiscountInput {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

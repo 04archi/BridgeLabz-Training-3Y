@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class L1Q16 {
+public class Handshakes {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -2,7 +2,7 @@
 // Hint => Volume of a Sphere is (4/3) * pi * r^3 and radius of earth is 6378 km
 // O/P => The volume of earth in cubic kilometers is ____ and cubic miles is ____
 
-public class L1Q7 {
+public class EarthVolume {
     public static void main(String[] args) {
         double radiusKm = 6378;  // Radius of Earth in kilometers
         double kmToMile = 0.621; // 1 km = 0.621 miles

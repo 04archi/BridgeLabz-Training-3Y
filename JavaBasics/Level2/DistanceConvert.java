@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class L2Q4 {
+public class DistanceConvert {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

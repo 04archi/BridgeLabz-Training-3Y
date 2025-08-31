@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class L2Q7 {
+public class IntOperation {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

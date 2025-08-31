@@ -6,7 +6,7 @@
 // O/P => The addition, subtraction, multiplication, and division value of 2 numbers ___ and ___ is ___, ____, ____, and ___
 
 import java.util.Scanner;
-public class L2Q1 {
+public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

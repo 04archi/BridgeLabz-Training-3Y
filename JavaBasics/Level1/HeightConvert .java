@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class L1Q10 {
+public class HeightConvert {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
