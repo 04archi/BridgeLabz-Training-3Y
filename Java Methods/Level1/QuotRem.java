@@ -1,5 +1,5 @@
 package Java Methods.Level1;
-
+import java.util.*;
 public class QuotRem {
     public static int[] findRemainderAndQuotient(int n, int d) {
         return new int[]{n % d, n / d};
